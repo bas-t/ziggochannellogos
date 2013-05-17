@@ -49,8 +49,6 @@ Eurosport<br/>
 Eursport HD<br/>
 Eventkanaal<br/>
 France 2<br/>
-History HD<br/>
-History<br/>
 Journaal 24<br/>
 Ketnet<br/>
 MTV<br/>
@@ -63,6 +61,8 @@ Nederland 2 HD<br/>
 Nederland 2<br/>
 Nederland 3 HD<br/>
 Nederland 3<br/>
+Net 5 HD<br/>
+Net 5<br/>
 Nickelodeon<br/>
 Politiek 24<br/>
 Rai uno<br/>
@@ -87,11 +87,20 @@ WDR<br/>
 ZDF<br/>
 Ziggo Xite<br/>
 
+Extra
+
+Discovery Science<br/>
+Discovery World HD<br/>
+Discovery World<br/>
+History HD<br/>
+History<br/>
+Nat Geo Wild<br/>
+Syfy Universal<br/>
+
 
 Missing Logo's
 ==============
 
-Net 5<br/>
 Nostalgienet<br/>
 Family 7<br/>
 TRT Türk<br/>

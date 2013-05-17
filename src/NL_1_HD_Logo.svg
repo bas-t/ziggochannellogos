@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="315"
+   height="220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="NL 1 HD Logo.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.610275"
+     inkscape:cx="157.5"
+     inkscape:cy="110"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="1800px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="749"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       spacingy="20px"
+       spacingx="20px"
+       empopacity="0.25098039"
+       empcolor="#000000"
+       opacity="0.1254902"
+       color="#000000"
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid2816"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient2815">
+      <stop
+         id="stop2817"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         id="stop2819"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.99215686;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3322"
+       inkscape:persp3d-origin="113.33 : 75.572998 : 1"
+       inkscape:vp_z="226.66 : 113.3595 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 113.3595 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <defs
+       id="defs3306">
+      <polyline
+         id="SVGID_1_"
+         points="0,0 226.484,0 226.66,226.719 0.18,226.719" />
+    </defs>
+    <clipPath
+       id="SVGID_2_">
+      <use
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_1_"
+         overflow="visible"
+         id="use3310" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective2831"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-749.07735,-433.3607)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <g
+       id="g2854"
+       transform="translate(2.024747,-1.0123735)">
+      <path
+         transform="translate(744.26226,434.28345)"
+         id="path3312"
+         d="M 10.078,99.156 99.25,9.98 c 7.035,-7.031 18.465,-7.031 25.531,0 l 89.508,89.176 c 7.059,7.035 7.078,18.438 0.047,25.48 l -89.18,89.168 c -7.027,7.031 -18.457,7.031 -25.516,0 L 10.128,124.636 c -7.066,-7.042 -7.085,-18.445 -0.05,-25.48"
+         clip-path="url(#SVGID_2_)"
+         style="fill:#ef4135" />
+      <path
+         transform="translate(744.26226,434.28345)"
+         id="path3314"
+         d="m 112.211,57.051 c -7.941,0 -14.297,6.492 -14.297,14.395 v 80.891 c 0,7.914 6.355,14.41 14.297,14.41 7.926,0 14.281,-6.496 14.281,-14.41 V 71.445 c 0,-7.902 -6.355,-14.394 -14.281,-14.394"
+         clip-path="url(#SVGID_2_)"
+         style="fill:#ffffff" />
+      <g
+         transform="translate(-284.64117,68.841395)"
+         id="g2850">
+        <path
+           style="font-size:82.38569641px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ef4135;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+           id="path2844"
+           d="m 1221.6582,367.74204 18.223,0 -1.4417,20.63665 19.9126,0 1.4417,-20.63665 18.3034,0 -4.12,58.97335 -18.3034,0 1.6665,-23.85484 -19.9126,0 -1.6665,23.85484 -18.223,0 z" />
+        <path
+           style="font-size:82.38569641px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ef4135;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+           id="path2846"
+           d="m 1291.5399,367.74204 27.073,0 c 5.3368,6e-5 9.5973,0.72415 12.7814,2.17228 3.184,1.44824 5.7542,3.52665 7.7104,6.23524 1.9563,2.70869 3.2915,5.85984 4.006,9.45344 0.7143,3.59368 0.931,7.40187 0.6499,11.42458 -0.4402,6.30231 -1.4991,11.18994 -3.1764,14.66288 -1.6776,3.47298 -3.872,6.38276 -6.5837,8.72935 -2.7118,2.3466 -5.5562,3.90876 -8.5338,4.68649 -4.0708,1.07273 -7.7288,1.60909 -10.9738,1.60909 l -27.073,0 z m 17.29,13.35549 -2.2512,32.22214 4.4652,0 c 3.8082,2e-5 6.5463,-0.42237 8.2146,-1.26716 1.668,-0.84476 3.0315,-2.31976 4.0905,-4.42501 1.0588,-2.10522 1.7531,-5.51784 2.083,-10.23787 0.4364,-6.24862 -0.2839,-10.52613 -2.1608,-12.83254 -1.8771,-2.30633 -5.1756,-3.45951 -9.8956,-3.45956 z" />
+      </g>
+    </g>
+  </g>
+</svg>
