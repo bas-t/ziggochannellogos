@@ -1,7 +1,6 @@
 Ziggo Channel Logo's for XBMC 12 Frodo
 ======================================
-
-I created a list of dutch channel logo's wich can be used in combination with Ziggo TV standard.
+I created a list of dutch channel logo's wich can be used in combination with Ziggo TV standard.<br/>
 Let me know if there is interest in missing logo's for TV plus and TV extra.
 
 Logo sizes:
@@ -12,7 +11,6 @@ Logo sizes:
 
 Howto
 =====
-
 In XBMC go to:
 
   System > Live TV > Menu/OSD
@@ -23,7 +21,6 @@ That's all, enjoy!
 
 Logo list
 =========
-
 13th Street<br/>
 24 Kitchen<br/>
 Aljazeera English<br/>
@@ -88,7 +85,7 @@ ZDF<br/>
 Ziggo Xite<br/>
 
 Extra
-
+-----
 Discovery Science<br/>
 Discovery World HD<br/>
 Discovery World<br/>
@@ -100,7 +97,6 @@ Syfy Universal<br/>
 
 Missing Logo's
 ==============
-
 Nostalgienet<br/>
 Family 7<br/>
 TRT Türk<br/>
