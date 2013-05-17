@@ -4,7 +4,10 @@ Ziggo Channel Logo's for XBMC 12 Frodo
 I created a list of dutch channel logo's wich can be used in combination with Ziggo TV standard.
 Let me know if there is interest in missing logo's for TV plus and TV extra.
 
-Logo size is 1000x1000 pixels.
+Logo sizes:
+256x256px
+500x500px
+1000x1000px
 
 
 Howto
