@@ -33,6 +33,7 @@ Brava NL<br/>
 Canvas HD<br/>
 Canvas<br/>
 CNN<br/>
+Comedy Central HD / Kindernet<br/>
 Comedy Central / Kindernet<br/>
 Discovery Channel HD<br/>
 Discovery Channel<br/>
