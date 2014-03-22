@@ -87,11 +87,16 @@ Ziggo Xite<br/>
 
 Extra
 -----
+Animal Planet HD<br/>
 Discovery Science<br/>
 Discovery World HD<br/>
 Discovery World<br/>
+FoxLife HD<br/>
+HBO HD<br/>
+HBO 2 HD<br/>
 History HD<br/>
 History<br/>
+Motors TV<br/>
 Nat Geo Wild<br/>
 Syfy Universal<br/>
 
