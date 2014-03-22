@@ -24,6 +24,7 @@ Logo list
 13th Street<br/>
 24 Kitchen<br/>
 Aljazeera English<br/>
+Animal Planet HD<br/>
 ARD<br/>
 Arte<br/>
 BBC 1<br/>
@@ -90,8 +91,12 @@ Extra
 Discovery Science<br/>
 Discovery World HD<br/>
 Discovery World<br/>
+FoxLife HD<br/>
+HBO HD<br/>
+HBO 2 HD </br>
 History HD<br/>
 History<br/>
+Motors TV<br/>
 Nat Geo Wild<br/>
 Syfy Universal<br/>
 
